@@ -8,3 +8,17 @@
 - NodeJS
 - MongoDB
 - Express
+
+# 도메인
+- /login
+- /serach
+
+- /users:/id
+- /users/logout
+- /users/edit
+- /users/delete
+
+- /videos/:id
+- /videos/:id/edit
+- /videos/:id/delete
+- /videos/upload
